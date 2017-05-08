@@ -1,0 +1,45 @@
+
+decided	A
+federal	T
+funds	T
+rate	T
+25	N
+basis	U
+4-1/2	N
+percent	U
+
+
+
+action	A
+
+inflation	MANDATE
+increases	D
+inflation	MANDATE
+
+inflation	MANDATE
+continue	D
+inflation	MANDATE
+
+action	A
+inflation	MANDATE
+
+continue	D
+
+Voting	A
+
+Voting	A
+against	D
+federal	T
+funds	T
+rate	T
+
+approved	A
+25-basis-point	N
+decrease	D
+5	N
+percent	U
+
+action	A
+approved	A
+
+

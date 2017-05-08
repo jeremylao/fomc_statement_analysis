@@ -1,0 +1,68 @@
+
+
+unemployment	MANDATE
+rate	T
+
+
+
+
+inflation	MANDATE
+
+
+
+unemployment	MANDATE
+rate	T
+
+
+inflation	MANDATE
+
+inflation	MANDATE
+maintain	D
+monetary	T
+policy	T
+
+decided	A
+keep	D
+federal	T
+funds	T
+rate	T
+0	N
+1/4	N
+percent	U
+low	D
+inflation	MANDATE
+low	D
+federal	T
+funds	T
+rate	T
+2014	N
+
+decided	A
+holdings	T
+securities	T
+
+6	N
+years	U
+30	N
+years	U
+3	N
+years	U
+
+
+holdings	T
+agency	T
+debt	T
+agency	T
+mortgage-backed	T
+securities	T
+agency	T
+mortgage-backed	T
+securities	T
+
+
+Voting	A
+
+Voting	A
+against	D
+action	A
+

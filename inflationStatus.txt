@@ -1,0 +1,793 @@
+2006_01
+Deflation - Core inflation has stayed relatively low(deflation) in recent months and longer-term inflation expectations remain contained(deflation).
+Inflation - Nevertheless, possible increases(inflation) in resource utilization as well as elevated(inflation) energy prices have the potential to add(inflation) to inflation pressures.
+----------- remained stable
+
+2006_03
+None      - As yet, the run-up(inflation) in the prices of energy and other commodities appears to have had only a modest effect on core inflation, ongoing productivity gains have helped to hold the growth of unit labor costs in check, and inflation expectations remain contained(deflation).
+Inflation - Still, possible increases(inflation) in resource utilization, in combination with the elevated(inflation) prices of energy and other commodities, have the potential to add(inflation) to inflation pressures.
+----------- inflation more overall
+
+2006_05
+None      - As yet, the run-up(inflation) in the prices of energy and other commodities appears to have had only a modest effect on core inflation, ongoing productivity gains have helped to hold the growth of unit labor costs in check, and inflation expectations remain contained(deflation).
+Inflation - Still, possible increases(inflation) in resource utilization, in combination with the elevated(inflation) prices of energy and other commodities, have the potential to add(inflation) to inflation pressures.
+Inflation - The Committee judges that some further policy firming(inflation) may yet be needed to address inflation risks but emphasizes that the extent and timing of any such firming(inflation) will depend importantly on the evolution of the economic outlook as implied by incoming information.
+----------- inflation more overall
+
+2006_06
+Inflation - Readings on core inflation have been elevated(inflation) in recent months.
+None      - Ongoing productivity gains have held down the rise(inflation) in unit labor costs, and inflation expectations remain contained(deflation).
+Inflation - However, the high levels of resource utilization and of the prices of energy and other commodities have the potential to sustain(inflation) inflation pressures.
+Deflation - Although the moderation(deflation) in the growth of aggregate demand should help to limit(deflation) inflation pressures over time, the Committee judges that some inflation risks remain.
+Inflation - The extent and timing of any additional firming(inflation) that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- inflation more overall
+
+2006_08
+Inflation - Readings on core inflation have been elevated(inflation) in recent months, and the high levels of resource utilization and of the prices of energy and other commodities have the potential to sustain(inflation) inflation pressures.
+Deflation - However, inflation pressures seem likely to moderate(deflation) over time, reflecting contained(deflation) inflation expectations and the cumulative effects of monetary policy actions and other factors restraining(deflation) aggregate demand.
+None      - Nonetheless, the Committee judges that some inflation risks remain.
+Inflation - The extent and timing of any additional firming(inflation) that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- inflation more overall
+
+2006_09
+Inflation - Readings on core inflation have been elevated(inflation), and the high levels of resource utilization and of the prices of energy and other commodities have the potential to sustain(inflation) inflation pressures.
+Deflation - However, inflation pressures seem likely to moderate(deflation) over time, reflecting reduced(deflation) impetus from energy prices, contained(deflation) inflation expectations, and the cumulative effects of monetary policy actions and other factors restraining(deflation) aggregate demand.
+None      - Nonetheless, the Committee judges that some inflation risks remain.
+Inflation - The extent and timing of any additional firming(inflation) that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- inflation more overall
+
+2006_10
+Inflation - Readings on core inflation have been elevated(inflation), and the high level of resource utilization has the potential to sustain(inflation) inflation pressures.
+Deflation - However, inflation pressures seem likely to moderate(deflation) over time, reflecting reduced(deflation) impetus from energy prices, contained(deflation) inflation expectations, and the cumulative effects of monetary policy actions and other factors restraining(deflation) aggregate demand.
+None      - Nonetheless, the Committee judges that some inflation risks remain.
+Inflation - The extent and timing of any additional firming(inflation) that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- inflation more overall
+
+2006_12
+Inflation - Readings on core inflation have been elevated(inflation), and the high level of resource utilization has the potential to sustain(inflation) inflation pressures.
+Deflation - However, inflation pressures seem likely to moderate(deflation) over time, reflecting reduced(deflation) impetus from energy prices, contained(deflation) inflation expectations, and the cumulative effects of monetary policy actions and other factors restraining(deflation) aggregate demand.
+None      - Nonetheless, the Committee judges that some inflation risks remain.
+Inflation - The extent and timing of any additional firming(inflation) that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- inflation more overall
+
+2007_01
+Deflation - Readings on core inflation have improved modestly in recent months, and inflation pressures seem likely to moderate(deflation) over time.
+Inflation - However, the high level of resource utilization has the potential to sustain(inflation) inflation pressures.
+None      - The Committee judges that some inflation risks remain.
+Inflation - The extent and timing of any additional firming(inflation) that may be needed to address these risks will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- inflation more overall
+
+2007_03
+Inflation - Recent readings on core inflation have been somewhat elevated(inflation).
+None      - Although inflation pressures seem likely to moderate(deflation) over time, the high level of resource utilization has the potential to sustain(inflation) those pressures.
+Deflation - In these circumstances, the Committee 's predominant policy concern remains the risk that inflation will fail to moderate(deflation) as expected.
+None      - Future policy adjustments will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- remained stable
+
+2007_05
+Inflation - Core inflation remains somewhat elevated(inflation).
+None      - Although inflation pressures seem likely to moderate(deflation) over time, the high level of resource utilization has the potential to sustain(inflation) those pressures.
+Deflation - In these circumstances, the Committee 's predominant policy concern remains the risk that inflation will fail to moderate(deflation) as expected.
+None      - Future policy adjustments will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- remained stable
+
+2007_06
+None      - Readings on core inflation have improved modestly in recent months.
+None      - However, a sustained(inflation) moderation(deflation) in inflation pressures has yet to be convincingly demonstrated.
+Deflation - In these circumstances, the Committee 's predominant policy concern remains the risk that inflation will fail to moderate(deflation) as expected.
+None      - Future policy adjustments will depend on the evolution of the outlook for both inflation and economic growth, as implied by incoming information.
+----------- deflation more overall
+
+2007_08
+None      - Readings on core inflation have improved modestly in recent months.
+None      - However, a sustained(inflation) moderation(deflation) in inflation pressures has yet to be convincingly demonstrated.
+Deflation - Although the downside(deflation) risks to growth have increased(inflation) somewhat, the Committee 's predominant policy concern remains the risk that inflation will fail to moderate(deflation) as expected.
+None      - Future policy adjustments will depend on the outlook for both inflation and economic growth, as implied by incoming information.
+----------- deflation more overall
+
+2007_09
+None      - Readings on core inflation have improved modestly this year.
+None      - However, the Committee judges that some inflation risks remain, and it will continue to monitor inflation developments carefully.
+----------- remained stable
+
+2007_10
+Inflation - Readings on core inflation have improved modestly this year, but recent increases(inflation) in energy and commodity prices, among other factors, may put renewed upward(inflation) pressure on inflation.
+None      - In this context, the Committee judges that some inflation risks remain, and it will continue to monitor inflation developments carefully.
+Deflation - The Committee judges that, after this action, the upside risks to inflation roughly balance the downside(deflation) risks to growth.
+----------- remained stable
+
+2007_12
+Inflation - Readings on core inflation have improved modestly this year, but elevated(inflation) energy and commodity prices, among other factors, may put upward(inflation) pressure on inflation.
+None      - In this context, the Committee judges that some inflation risks remain, and it will continue to monitor inflation developments carefully.
+None      - Recent developments, including the deterioration(deflation) in financial market conditions, have increased(inflation) the uncertainty surrounding the outlook for economic growth and inflation.
+----------- inflation more overall
+
+2008_01
+Deflation - The Committee expects inflation to moderate(deflation) in coming quarters, but it will be necessary to continue to monitor inflation developments carefully.
+----------- deflation more overall
+
+2008_01b
+Deflation - The Committee expects inflation to moderate(deflation) in coming quarters, but it will be necessary to continue to monitor inflation developments carefully.
+----------- deflation more overall
+
+2008_03
+Inflation - Inflation has been elevated(inflation), and some indicators of inflation expectations have risen(inflation).
+Deflation - The Committee expects inflation to moderate(deflation) in coming quarters, reflecting a projected leveling-out of energy and other commodity prices and an easing of pressures on resource utilization.
+Inflation - Still, uncertainty about the inflation outlook has increased(inflation).
+None      - It will be necessary to continue to monitor inflation developments carefully.
+----------- inflation more overall
+
+2008_03b
+----------- remained stable
+
+2008_04
+Inflation - Although readings on core inflation have improved somewhat, energy and other commodity prices have increased(inflation), and some indicators of inflation expectations have risen(inflation) in recent months.
+Deflation - The Committee expects inflation to moderate(deflation) in coming quarters, reflecting a projected leveling-out of energy and other commodity prices and an easing of pressures on resource utilization.
+None      - Still, uncertainty about the inflation outlook remains high.
+None      - It will be necessary to continue to monitor inflation developments carefully.
+----------- remained stable
+
+2008_06
+Deflation - The Committee expects inflation to moderate(deflation) later this year and next year.
+Inflation - However, in light of the continued increases(inflation) in the prices of energy and some other commodities and the elevated(inflation) state of some indicators of inflation expectations, uncertainty about the inflation outlook remains high.
+None      - Although downside(deflation) risks to growth remain, they appear to have diminished somewhat, and the upside risks to inflation and inflation expectations have increased(inflation).
+----------- remained stable
+
+2008_08
+Inflation - Inflation has been high, spurred by the earlier increases(inflation) in the prices of energy and some other commodities, and some indicators of inflation expectations have been elevated(inflation).
+Deflation - The Committee expects inflation to moderate(deflation) later this year and next year, but the inflation outlook remains highly uncertain.
+Deflation - Although downside(deflation) risks to growth remain, the upside risks to inflation are also of significant concern to the Committee.
+----------- deflation more overall
+
+2008_09
+Inflation - Inflation has been high, spurred by the earlier increases(inflation) in the prices of energy and some other commodities.
+Deflation - The Committee expects inflation to moderate(deflation) later this year and next year, but the inflation outlook remains highly uncertain.
+Deflation - The downside(deflation) risks to growth and the upside risks to inflation are both of significant concern to the Committee.
+----------- deflation more overall
+
+2008_10
+Deflation - In light of the declines(deflation) in the prices of energy and other commodities and the weaker prospects for economic activity, the Committee expects inflation to moderate(deflation) in coming quarters to levels consistent with price stability.
+----------- deflation more overall
+
+2008_10b
+Deflation - Inflation expectations are diminishing and remain anchored(deflation) to price stability.
+Deflation - Inflation has been high, but the Committee believes that the decline(deflation) in energy and other commodity prices and the weaker prospects for economic activity have reduced(deflation) the upside risks to inflation.
+----------- deflation more overall
+
+2008_12
+Deflation - In light of the declines(deflation) in the prices of energy and other commodities and the weaker prospects for economic activity, the Committee expects inflation to moderate(deflation) further in coming quarters.
+----------- deflation more overall
+
+2009_01
+Deflation - In light of the declines(deflation) in the prices of energy and other commodities in recent months and the prospects for considerable economic slack, the Committee expects that inflation pressures will remain subdued(deflation) in coming quarters.
+Deflation - Moreover, the Committee sees some risk that inflation could persist for a time below(deflation) rates that best foster economic growth and price stability in the longer term.
+----------- deflation more overall
+
+2009_03
+None      - In light of increasing(inflation) economic slack here and abroad, the Committee expects that inflation will remain subdued(deflation).
+Deflation - Moreover, the Committee sees some risk that inflation could persist for a time below(deflation) rates that best foster economic growth and price stability in the longer term.
+----------- deflation more overall
+
+2009_04
+None      - In light of increasing(inflation) economic slack here and abroad, the Committee expects that inflation will remain subdued(deflation).
+Deflation - Moreover, the Committee sees some risk that inflation could persist for a time below(deflation) rates that best foster economic growth and price stability in the longer term.
+----------- deflation more overall
+
+2009_06
+Deflation - However, substantial resource slack is likely to dampen cost pressures, and the Committee expects that inflation will remain subdued(deflation) for some time.
+----------- deflation more overall
+
+2009_08
+Deflation - However, substantial resource slack is likely to dampen cost pressures, and the Committee expects that inflation will remain subdued(deflation) for some time.
+----------- deflation more overall
+
+2009_09
+Deflation - With substantial resource slack likely to continue to dampen cost pressures and with longer-term inflation expectations stable(deflation), the Committee expects that inflation will remain subdued(deflation) for some time.
+----------- deflation more overall
+
+2009_11
+Deflation - With substantial resource slack likely to continue to dampen cost pressures and with longer-term inflation expectations stable(deflation), the Committee expects that inflation will remain subdued(deflation) for some time.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels of the federal funds rate for an extended period.
+----------- deflation more overall
+
+2009_12
+Deflation - With substantial resource slack likely to continue to dampen cost pressures and with longer-term inflation expectations stable(deflation), the Committee expects that inflation will remain subdued(deflation) for some time.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels of the federal funds rate for an extended period.
+----------- deflation more overall
+
+2010_01
+Deflation - With substantial resource slack continuing to restrain(deflation) cost pressures and with longer-term inflation expectations stable(deflation), inflation is likely to be subdued(deflation) for some time.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels of the federal funds rate for an extended period.
+----------- deflation more overall
+
+2010_03
+Deflation - With substantial resource slack continuing to restrain(deflation) cost pressures and longer-term inflation expectations stable(deflation), inflation is likely to be subdued(deflation) for some time.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels of the federal funds rate for an extended period.
+----------- deflation more overall
+
+2010_04
+Deflation - With substantial resource slack continuing to restrain(deflation) cost pressures and longer-term inflation expectations stable(deflation), inflation is likely to be subdued(deflation) for some time.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels of the federal funds rate for an extended period.
+----------- deflation more overall
+
+2010_06
+Deflation - Prices of energy and other commodities have declined(deflation) somewhat in recent months, and underlying inflation has trended lower(deflation).
+Deflation - With substantial resource slack continuing to restrain(deflation) cost pressures and longer-term inflation expectations stable(deflation), inflation is likely to be subdued(deflation) for some time.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels of the federal funds rate for an extended period.
+----------- deflation more overall
+
+2010_08
+Deflation - Measures of underlying inflation have trended lower(deflation) in recent quarters and, with substantial resource slack continuing to restrain(deflation) cost pressures and longer-term inflation expectations stable(deflation), inflation is likely to be subdued(deflation) for some time.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels of the federal funds rate for an extended period.
+----------- deflation more overall
+
+2010_09
+Deflation - Measures of underlying inflation are currently at levels somewhat below(deflation) those the Committee judges most consistent, over the longer run, with its mandate to promote maximum employment and price stability.
+Deflation - With substantial resource slack continuing to restrain(deflation) cost pressures and longer-term inflation expectations stable(deflation), inflation is likely to remain subdued(deflation) for some time before rising(inflation) to levels the Committee considers consistent with its mandate.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels for the federal funds rate for an extended period.
+None      - The Committee will continue to monitor the economic outlook and financial developments and is prepared to provide additional accommodation if needed to support the economic recovery and to return inflation, over time, to levels consistent with its mandate.
+----------- deflation more overall
+
+2010_11
+Deflation - Longer-term inflation expectations have remained stable(deflation), but measures of underlying inflation have trended lower(deflation) in recent quarters.
+None      - Currently, the unemployment rate is elevated(inflation), and measures of underlying inflation are somewhat low(deflation), relative to levels that the Committee judges to be consistent, over the longer run, with its dual mandate.
+Inflation - To promote a stronger pace of economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to expand(inflation) its holdings of securities.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels for the federal funds rate for an extended period.
+None      - The Committee will continue to monitor the economic outlook and financial developments and will employ its policy tools as necessary to support the economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate.&#160; Voting for the FOMC monetary policy action were: Ben S. Bernanke, Chairman; William C. Dudley, Vice Chairman; James Bullard; Elizabeth A. Duke; Sandra Pianalto; Sarah Bloom Raskin; Eric S. Rosengren; Daniel K. Tarullo; Kevin M. Warsh; and Janet L. Yellen.
+Inflation - Mr. Hoenig also was concerned that this continued high level of monetary accommodation increased(inflation) the risks of future financial imbalances and, over time, would cause an increase(inflation) in long-term inflation expectations that could destabilize the economy.
+----------- remained stable
+
+2010_12
+Deflation - Longer-term inflation expectations have remained stable(deflation), but measures of underlying inflation have continued to trend downward.
+None      - Currently, the unemployment rate is elevated(inflation), and measures of underlying inflation are somewhat low(deflation), relative to levels that the Committee judges to be consistent, over the longer run, with its dual mandate.
+Inflation - To promote a stronger pace of economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to continue expanding(inflation) its holdings of securities as announced in November.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels for the federal funds rate for an extended period.
+None      - The Committee will continue to monitor the economic outlook and financial developments and will employ its policy tools as necessary to support the economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate.
+Inflation - In light of the improving economy, Mr. Hoenig was concerned that a continued high level of monetary accommodation would increase(inflation) the risks of future economic and financial imbalances and, over time, would cause an increase(inflation) in long-term inflation expectations that could destabilize the economy.
+----------- remained stable
+
+2011_01
+None      - Although commodity prices have risen(inflation), longer-term inflation expectations have remained stable(deflation), and measures of underlying inflation have been trending downward.
+None      - Currently, the unemployment rate is elevated(inflation), and measures of underlying inflation are somewhat low(deflation), relative to levels that the Committee judges to be consistent, over the longer run, with its dual mandate.
+Inflation - To promote a stronger pace of economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to continue expanding(inflation) its holdings of securities as announced in November.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels for the federal funds rate for an extended period.
+None      - The Committee will continue to monitor the economic outlook and financial developments and will employ its policy tools as necessary to support the economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate.
+----------- remained stable
+
+2011_03
+Deflation - Nonetheless, longer-term inflation expectations have remained stable(deflation), and measures of underlying inflation have been subdued(deflation).
+None      - Currently, the unemployment rate remains elevated(inflation), and measures of underlying inflation continue to be somewhat low(deflation), relative to levels that the Committee judges to be consistent, over the longer run, with its dual mandate.
+Inflation - The recent increases(inflation) in the prices of energy and other commodities are currently putting upward(inflation) pressure on inflation.
+None      - The Committee expects these effects to be transitory, but it will pay close attention to the evolution of inflation and inflation expectations.
+Inflation - To promote a stronger pace of economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to continue expanding(inflation) its holdings of securities as announced in November.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels for the federal funds rate for an extended period.
+None      - The Committee will continue to monitor the economic outlook and financial developments and will employ its policy tools as necessary to support the economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate.
+----------- remained stable
+
+2011_04
+Deflation - Inflation has picked up(inflation) in recent months, but longer-term inflation expectations have remained stable(deflation) and measures of underlying inflation are still subdued(deflation).
+None      - The unemployment rate remains elevated(inflation), and measures of underlying inflation continue to be somewhat low(deflation), relative to levels that the Committee judges to be consistent, over the longer run, with its dual mandate.
+Inflation - Increases in the prices of energy and other commodities have pushed up(inflation) inflation in recent months.
+None      - The Committee expects these effects to be transitory, but it will pay close attention to the evolution of inflation and inflation expectations.
+Inflation - To promote a stronger pace of economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to continue expanding(inflation) its holdings of securities as announced in November.
+Deflation - The Committee will maintain(deflation) the target range for the federal funds rate at 0 to 1/4 percent and continues to anticipate that economic conditions, including low(deflation) rates of resource utilization, subdued(deflation) inflation trends, and stable(deflation) inflation expectations, are likely to warrant exceptionally low(deflation) levels for the federal funds rate for an extended period.
+None      - The Committee will continue to monitor the economic outlook and financial developments and will employ its policy tools as necessary to support the economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate.
+----------- remained stable
+
+2011_06
+Inflation - Inflation has picked up(inflation) in recent months, mainly reflecting higher prices for some commodities and imported goods, as well as the recent supply chain disruptions.
+Deflation - However, longer-term inflation expectations have remained stable(deflation).
+Inflation - Inflation has moved up(inflation) recently, but the Committee anticipates that inflation will subside to levels at or below(deflation) those consistent with the Committee 's dual mandate as the effects of past energy and other commodity price increases(inflation) dissipate.
+None      - However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+None      - To promote the ongoing economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to keep the target range for the federal funds rate at 0 to 1/4 percent.
+Deflation - The Committee continues to anticipate that economic conditions--including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run--are likely to warrant exceptionally low(deflation) levels for the federal funds rate for an extended period.
+----------- remained stable
+
+2011_08
+Inflation - Inflation picked up(inflation) earlier in the year, mainly reflecting higher prices for some commodities and imported goods, as well as the supply chain disruptions.
+Deflation - More recently, inflation has moderated(deflation) as prices of energy and some commodities have declined(deflation) from their earlier peaks.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+None      - The Committee also anticipates that inflation will settle, over coming quarters, at levels at or below(deflation) those consistent with the Committee 's dual mandate as the effects of past energy and other commodity price increases(inflation) dissipate further.
+None      - However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+None      - To promote the ongoing economic recovery and to help ensure that inflation, over time, is at levels consistent with its mandate, the Committee decided today to keep the target range for the federal funds rate at 0 to 1/4 percent.
+Deflation - The Committee currently anticipates that economic conditions--including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run--are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through mid-2013.
+----------- deflation more overall
+
+2011_09
+Deflation - Inflation appears to have moderated(deflation) since earlier in the year as prices of energy and some commodities have declined(deflation) from their peaks.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+None      - The Committee also anticipates that inflation will settle, over coming quarters, at levels at or below(deflation) those consistent with the Committee 's dual mandate as the effects of past energy and other commodity price increases(inflation) dissipate further.
+None      - However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee decided today to extend the average maturity of its holdings of securities.
+Deflation - The Committee also decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions--including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run--are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through mid-2013.
+----------- deflation more overall
+
+2011_11
+Deflation - Inflation appears to have moderated(deflation) since earlier in the year as prices of energy and some commodities have declined(deflation) from their peaks.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+None      - The Committee also anticipates that inflation will settle, over coming quarters, at levels at or below(deflation) those consistent with the Committee 's dual mandate as the effects of past energy and other commodity price increases(inflation) dissipate further.
+None      - However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee decided today to continue its program to extend the average maturity of its holdings of securities as announced in September.
+Deflation - The Committee also decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions--including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run--are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through mid-2013.
+----------- deflation more overall
+
+2011_12
+Deflation - Inflation has moderated(deflation) since earlier in the year, and longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that inflation will settle, over coming quarters, at levels at or below(deflation) those consistent with the Committee’s dual mandate.
+None      - However, the Committee will continue to pay close attention to the evolution of inflation and inflation expectations.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee decided today to continue its program to extend the average maturity of its holdings of securities as announced in September.
+Deflation - The Committee also decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions--including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run--are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through mid-2013.
+----------- deflation more overall
+
+2012_01
+Deflation - Inflation has been subdued(deflation) in recent months, and longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that over coming quarters, inflation will run at levels at or below(deflation) those consistent with the Committee 's dual mandate.
+Deflation - To support a stronger economic recovery and to help ensure that inflation, over time, is at levels consistent with the dual mandate, the Committee expects to maintain(deflation) a highly accommodative stance for monetary policy.
+Deflation - In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions -- including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run -- are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through late 2014.
+----------- deflation more overall
+
+2012_03
+None      - Inflation has been subdued(deflation) in recent months, although prices of crude oil and gasoline have increased(inflation) lately.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+Inflation - The recent increase(inflation) in oil and gasoline prices will push up(inflation) inflation temporarily, but the Committee anticipates that subsequently inflation will run at or below(deflation) the rate that it judges most consistent with its dual mandate.
+Deflation - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee expects to maintain(deflation) a highly accommodative stance for monetary policy.
+Deflation - In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions -- including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run -- are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through late 2014.
+----------- deflation more overall
+
+2012_04
+Inflation - Inflation has picked up(inflation) somewhat, mainly reflecting higher prices of crude oil and gasoline.
+Deflation - However, longer-term inflation expectations have remained stable(deflation).
+None      - The increase(inflation) in oil and gasoline prices earlier this year is expected to affect inflation only temporarily, and the Committee anticipates that subsequently inflation will run at or below(deflation) the rate that it judges most consistent with its dual mandate.
+Deflation - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee expects to maintain(deflation) a highly accommodative stance for monetary policy.
+Deflation - In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions -- including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run -- are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through late 2014.
+----------- deflation more overall
+
+2012_06
+Deflation - Inflation has declined(deflation), mainly reflecting lower(deflation) prices of crude oil and gasoline, and longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee anticipates that inflation over the medium term will run at or below(deflation) the rate that it judges most consistent with its dual mandate.
+Deflation - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee expects to maintain(deflation) a highly accommodative stance for monetary policy.
+Deflation - In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions -- including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run -- are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through late 2014.
+----------- deflation more overall
+
+2012_08
+Deflation - Inflation has declined(deflation) since earlier this year, mainly reflecting lower(deflation) prices of crude oil and gasoline, and longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee anticipates that inflation over the medium term will run at or below(deflation) the rate that it judges most consistent with its dual mandate.
+Deflation - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee expects to maintain(deflation) a highly accommodative stance for monetary policy.
+Deflation - In particular, the Committee decided today to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that economic conditions -- including low(deflation) rates of resource utilization and a subdued(deflation) outlook for inflation over the medium run -- are likely to warrant exceptionally low(deflation) levels for the federal funds rate at least through late 2014.
+----------- deflation more overall
+
+2012_09
+None      - Inflation has been subdued(deflation), although the prices of some key commodities have increased(inflation) recently.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that inflation over the medium term likely would run at or below(deflation) its 2 percent objective.
+Inflation - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee agreed today to increase(inflation) policy accommodation by purchasing additional agency mortgage-backed securities at a pace of$ 40 billion per month.
+----------- deflation more overall
+
+2012_10
+Inflation - Inflation recently picked up(inflation) somewhat, reflecting higher energy prices.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that inflation over the medium term likely would run at or below(deflation) its 2 percent objective.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee will continue purchasing additional agency mortgage-backed securities at a pace of$ 40 billion per month.
+----------- deflation more overall
+
+2012_12
+Deflation - Inflation has been running somewhat below(deflation) the Committee 's longer-run objective, apart from temporary variations that largely reflect fluctuations in energy prices.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that inflation over the medium term likely will run at or below(deflation) its 2 percent objective.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee will continue purchasing additional agency mortgage-backed securities at a pace of$ 40 billion per month.
+Deflation - In particular, the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that this exceptionally low(deflation) range for the federal funds rate will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee’s 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+----------- deflation more overall
+
+2013_01
+Deflation - Inflation has been running somewhat below(deflation) the Committee 's longer-run objective, apart from temporary variations that largely reflect fluctuations in energy prices.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that inflation over the medium term likely will run at or below(deflation) its 2 percent objective.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee will continue purchasing additional agency mortgage-backed securities at a pace of$ 40 billion per month and longer-term Treasury securities at a pace of$ 45 billion per month.
+Deflation - In particular, the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that this exceptionally low(deflation) range for the federal funds rate will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Inflation - Voting against the action was Esther L. George, who was concerned that the continued high level of monetary accommodation increased(inflation) the risks of future economic and financial imbalances and, over time, could cause an increase(inflation) in long-term inflation expectations.
+----------- deflation more overall
+
+2013_03
+Deflation - Inflation has been running somewhat below(deflation) the Committee 's longer-run objective, apart from temporary variations that largely reflect fluctuations in energy prices.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that inflation over the medium term likely will run at or below(deflation) its 2 percent objective.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee decided to continue purchasing additional agency mortgage-backed securities at a pace of$ 40 billion per month and longer-term Treasury securities at a pace of$ 45 billion per month.
+Deflation - In particular, the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that this exceptionally low(deflation) range for the federal funds rate will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Inflation - Voting against the action was Esther L. George, who was concerned that the continued high level of monetary accommodation increased(inflation) the risks of future economic and financial imbalances and, over time, could cause an increase(inflation) in long-term inflation expectations.
+----------- deflation more overall
+
+2013_05
+Deflation - Inflation has been running somewhat below(deflation) the Committee 's longer-run objective, apart from temporary variations that largely reflect fluctuations in energy prices.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that inflation over the medium term likely will run at or below(deflation) its 2 percent objective.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee decided to continue purchasing additional agency mortgage-backed securities at a pace of$ 40 billion per month and longer-term Treasury securities at a pace of$ 45 billion per month.
+Deflation - The Committee is prepared to increase(inflation) or reduce(deflation) the pace of its purchases to maintain(deflation) appropriate policy accommodation as the outlook for the labor market or inflation changes.
+Deflation - In particular, the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that this exceptionally low(deflation) range for the federal funds rate will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Inflation - Voting against the action was Esther L. George, who was concerned that the continued high level of monetary accommodation increased(inflation) the risks of future economic and financial imbalances and, over time, could cause an increase(inflation) in long-term inflation expectations.
+----------- deflation more overall
+
+2013_06
+Deflation - Partly reflecting transitory influences, inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee also anticipates that inflation over the medium term likely will run at or below(deflation) its 2 percent objective.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee decided to continue purchasing additional agency mortgage-backed securities at a pace of$ 40 billion per month and longer-term Treasury securities at a pace of$ 45 billion per month.
+Deflation - The Committee is prepared to increase(inflation) or reduce(deflation) the pace of its purchases to maintain(deflation) appropriate policy accommodation as the outlook for the labor market or inflation changes.
+Deflation - In particular, the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that this exceptionally low(deflation) range for the federal funds rate will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Inflation - Voting against the action was James Bullard, who believed that the Committee should signal more strongly its willingness to defend its inflation goal in light of recent low(deflation) inflation readings, and Esther L. George, who was concerned that the continued high level of monetary accommodation increased(inflation) the risks of future economic and financial imbalances and, over time, could cause an increase(inflation) in long-term inflation expectations.
+----------- deflation more overall
+
+2013_07
+Deflation - Partly reflecting transitory influences, inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee recognizes that inflation persistently below(deflation) its 2 percent objective could pose risks to economic performance, but it anticipates that inflation will move back toward its objective over the medium term.
+None      - To support a stronger economic recovery and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee decided to continue purchasing additional agency mortgage-backed securities at a pace of$ 40 billion per month and longer-term Treasury securities at a pace of$ 45 billion per month.
+Deflation - The Committee is prepared to increase(inflation) or reduce(deflation) the pace of its purchases to maintain(deflation) appropriate policy accommodation as the outlook for the labor market or inflation changes.
+Deflation - In particular, the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that this exceptionally low(deflation) range for the federal funds rate will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Inflation - Voting against the action was Esther L. George, who was concerned that the continued high level of monetary accommodation increased(inflation) the risks of future economic and financial imbalances and, over time, could cause an increase(inflation) in long-term inflation expectations.
+----------- deflation more overall
+
+2013_09
+Deflation - Apart from fluctuations due to changes in energy prices, inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee recognizes that inflation persistently below(deflation) its 2 percent objective could pose risks to economic performance, but it anticipates that inflation will move back toward its objective over the medium term.
+Deflation - Taken together, these actions should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+Deflation - In judging when to moderate(deflation) the pace of asset purchases, the Committee will, at its coming meetings, assess whether incoming information continues to support the Committee's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective.
+Deflation - In particular, the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that this exceptionally low(deflation) range for the federal funds rate will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Inflation - Voting against the action was Esther L. George, who was concerned that the continued high level of monetary accommodation increased(inflation) the risks of future economic and financial imbalances and, over time, could cause an increase(inflation) in long-term inflation expectations.
+----------- deflation more overall
+
+2013_10
+Deflation - Apart from fluctuations due to changes in energy prices, inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee recognizes that inflation persistently below(deflation) its 2 percent objective could pose risks to economic performance, but it anticipates that inflation will move back toward its objective over the medium term.
+Deflation - Taken together, these actions should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+Deflation - In judging when to moderate(deflation) the pace of asset purchases, the Committee will, at its coming meetings, assess whether incoming information continues to support the Committee 's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective.
+Deflation - In particular, the Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and currently anticipates that this exceptionally low(deflation) range for the federal funds rate will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Inflation - Voting against the action was Esther L. George, who was concerned that the continued high level of monetary accommodation increased(inflation) the risks of future economic and financial imbalances and, over time, could cause an increase(inflation) in long-term inflation expectations.
+----------- deflation more overall
+
+2013_12
+Deflation - Inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee recognizes that inflation persistently below(deflation) its 2 percent objective could pose risks to economic performance, and it is monitoring inflation developments carefully for evidence that inflation will move back toward its objective over the medium term.
+Deflation - The Committee 's sizable and still-increasing holdings of longer-term securities should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+Deflation - If incoming information broadly supports the Committee 's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce(deflation) the pace of asset purchases in further measured steps at future meetings.
+None      - However, asset purchases are not on a preset course, and the Committee 's decisions about their pace will remain contingent on the Committee 's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+Deflation - The Committee also reaffirmed its expectation that the current exceptionally low(deflation) target range for the federal funds rate of 0 to 1/4 percent will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee now anticipates, based on its assessment of these factors, that it likely will be appropriate to maintain(deflation) the current target range for the federal funds rate well past the time that the unemployment rate declines(deflation) below(deflation) 6-1/2 percent, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Inflation - Voting against the action was Eric S. Rosengren, who believes that, with the unemployment rate still elevated(inflation) and the inflation rate well below(deflation) the target, changes in the purchase program are premature until incoming data more clearly indicate that economic growth is likely to be sustained(inflation) above its potential rate.
+----------- deflation more overall
+
+2014_01
+Deflation - Inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee recognizes that inflation persistently below(deflation) its 2 percent objective could pose risks to economic performance, and it is monitoring inflation developments carefully for evidence that inflation will move back toward its objective over the medium term.
+Deflation - The Committee 's sizable and still-increasing holdings of longer-term securities should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+Deflation - If incoming information broadly supports the Committee 's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce(deflation) the pace of asset purchases in further measured steps at future meetings.
+None      - However, asset purchases are not on a preset course, and the Committee 's decisions about their pace will remain contingent on the Committee 's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+Deflation - The Committee also reaffirmed its expectation that the current exceptionally low(deflation) target range for the federal funds rate of 0 to 1/4 percent will be appropriate at least as long as the unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the Committee 's 2 percent longer-run goal, and longer-term inflation expectations continue to be well anchored(deflation).
+Deflation - In determining how long to maintain(deflation) a highly accommodative stance of monetary policy, the Committee will also consider other information, including additional measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain(deflation) the current target range for the federal funds rate well past the time that the unemployment rate declines(deflation) below(deflation) 6-1/2 percent, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+----------- deflation more overall
+
+2014_03
+Deflation - Inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee recognizes that inflation persistently below(deflation) its 2 percent objective could pose risks to economic performance, and it is monitoring inflation developments carefully for evidence that inflation will move back toward its objective over the medium term.
+Deflation - The Committee 's sizable and still-increasing holdings of longer-term securities should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+Deflation - If incoming information broadly supports the Committee 's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce(deflation) the pace of asset purchases in further measured steps at future meetings.
+None      - However, asset purchases are not on a preset course, and the Committee 's decisions about their pace will remain contingent on the Committee 's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+Deflation - In determining how long to maintain(deflation) the current 0 to 1/4 percent target range for the federal funds rate, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain(deflation) the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored(deflation).
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+Deflation - Voting against the action was Narayana Kocherlakota, who supported the sixth paragraph, but believed the fifth paragraph weakens(deflation) the credibility of the Committee 's commitment to return inflation to the 2 percent target from below(deflation) and fosters policy uncertainty that hinders economic activity.
+----------- deflation more overall
+
+2014_04
+Deflation - Inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee recognizes that inflation persistently below(deflation) its 2 percent objective could pose risks to economic performance, and it is monitoring inflation developments carefully for evidence that inflation will move back toward its objective over the medium term.
+Deflation - The Committee 's sizable and still-increasing holdings of longer-term securities should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+Deflation - If incoming information broadly supports the Committee 's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce(deflation) the pace of asset purchases in further measured steps at future meetings.
+None      - However, asset purchases are not on a preset course, and the Committee 's decisions about their pace will remain contingent on the Committee 's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+Deflation - In determining how long to maintain(deflation) the current 0 to 1/4 percent target range for the federal funds rate, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain(deflation) the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored(deflation).
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2014_06
+Deflation - Inflation has been running below(deflation) the Committee 's longer-run objective, but longer-term inflation expectations have remained stable(deflation).
+Deflation - The Committee recognizes that inflation persistently below(deflation) its 2 percent objective could pose risks to economic performance, and it is monitoring inflation developments carefully for evidence that inflation will move back toward its objective over the medium term.
+Deflation - The Committee 's sizable and still-increasing holdings of longer-term securities should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+Deflation - If incoming information broadly supports the Committee 's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce(deflation) the pace of asset purchases in further measured steps at future meetings.
+None      - However, asset purchases are not on a preset course, and the Committee 's decisions about their pace will remain contingent on the Committee 's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+Deflation - In determining how long to maintain(deflation) the current 0 to 1/4 percent target range for the federal funds rate, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain(deflation) the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored(deflation).
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2014_07
+None      - Inflation has moved somewhat closer to the Committee 's longer-run objective.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+None      - The Committee expects that, with appropriate policy accommodation, economic activity will expand(inflation) at a moderate(deflation) pace, with labor market indicators and inflation moving toward levels the Committee judges consistent with its dual mandate.
+Deflation - The Committee sees the risks to the outlook for economic activity and the labor market as nearly balanced and judges that the likelihood of inflation running persistently below(deflation) 2 percent has diminished somewhat.
+Deflation - The Committee 's sizable and still-increasing holdings of longer-term securities should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+Deflation - If incoming information broadly supports the Committee 's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will likely reduce(deflation) the pace of asset purchases in further measured steps at future meetings.
+None      - However, asset purchases are not on a preset course, and the Committee 's decisions about their pace will remain contingent on the Committee 's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+Deflation - In determining how long to maintain(deflation) the current 0 to 1/4 percent target range for the federal funds rate, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain(deflation) the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored(deflation).
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2014_09
+Deflation - Inflation has been running below(deflation) the Committee 's longer-run objective.
+Deflation - Longer-term inflation expectations have remained stable(deflation).
+None      - The Committee expects that, with appropriate policy accommodation, economic activity will expand(inflation) at a moderate(deflation) pace, with labor market indicators and inflation moving toward levels the Committee judges consistent with its dual mandate.
+Deflation - The Committee sees the risks to the outlook for economic activity and the labor market as nearly balanced and judges that the likelihood of inflation running persistently below(deflation) 2 percent has diminished somewhat since early this year.
+Deflation - The Committee 's sizable and still-increasing holdings of longer-term securities should maintain(deflation) downward pressure on longer-term interest rates, support mortgage markets, and help to make broader financial conditions more accommodative, which in turn should promote a stronger economic recovery and help to ensure that inflation, over time, is at the rate most consistent with the Committee 's dual mandate.
+None      - If incoming information broadly supports the Committee 's expectation of ongoing improvement in labor market conditions and inflation moving back toward its longer-run objective, the Committee will end its current program of asset purchases at its next meeting.
+None      - However, asset purchases are not on a preset course, and the Committee 's decisions about their pace will remain contingent on the Committee 's outlook for the labor market and inflation as well as its assessment of the likely efficacy and costs of such purchases.
+Deflation - In determining how long to maintain(deflation) the current 0 to 1/4 percent target range for the federal funds rate, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee continues to anticipate, based on its assessment of these factors, that it likely will be appropriate to maintain(deflation) the current target range for the federal funds rate for a considerable time after the asset purchase program ends, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored(deflation).
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2014_10
+Deflation - Inflation has continued to run below(deflation) the Committee 's longer-run objective.
+Deflation - Market-based measures of inflation compensation have declined(deflation) somewhat; survey-based measures of longer-term inflation expectations have remained stable(deflation).
+None      - The Committee expects that, with appropriate policy accommodation, economic activity will expand(inflation) at a moderate(deflation) pace, with labor market indicators and inflation moving toward levels the Committee judges consistent with its dual mandate.
+Deflation - Although inflation in the near term will likely be held down by lower(deflation) energy prices and other factors, the Committee judges that the likelihood of inflation running persistently below(deflation) 2 percent has diminished somewhat since early this year.
+Deflation - In determining how long to maintain(deflation) this target range, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee anticipates, based on its current assessment, that it likely will be appropriate to maintain(deflation) the 0 to 1/4 percent target range for the federal funds rate for a considerable time following the end of its asset purchase program this month, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored(deflation).
+Inflation - However, if incoming information indicates faster progress toward the Committee 's employment and inflation objectives than the Committee now expects, then increases(inflation) in the target range for the federal funds rate are likely to occur sooner than currently anticipated.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+Deflation - Voting against the action was Narayana Kocherlakota, who believed that, in light of continued sluggishness(deflation) in the inflation outlook and the recent slide in market-based measures of longer-term inflation expectations, the Committee should commit to keeping the current target range for the federal funds rate at least until the one-to-two-year ahead inflation outlook has returned to 2 percent and should continue the asset purchase program at its current level.
+----------- deflation more overall
+
+2014_12
+Deflation - Inflation has continued to run below(deflation) the Committee 's longer-run objective, partly reflecting declines(deflation) in energy prices.
+Deflation - Market-based measures of inflation compensation have declined(deflation) somewhat further; survey-based measures of longer-term inflation expectations have remained stable(deflation).
+None      - The Committee expects inflation to rise(inflation) gradually toward 2 percent as the labor market improves further and the transitory effects of lower(deflation) energy prices and other factors dissipate.
+None      - The Committee continues to monitor inflation developments closely.
+Deflation - In determining how long to maintain(deflation) this target range, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial developments.
+Deflation - The Committee sees this guidance as consistent with its previous statement that it likely will be appropriate to maintain(deflation) the 0 to 1/4 percent target range for the federal funds rate for a considerable time following the end of its asset purchase program in October, especially if projected inflation continues to run below(deflation) the Committee 's 2 percent longer-run goal, and provided that longer-term inflation expectations remain well anchored(deflation).
+Inflation - However, if incoming information indicates faster progress toward the Committee 's employment and inflation objectives than the Committee now expects, then increases(inflation) in the target range for the federal funds rate are likely to occur sooner than currently anticipated.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+Deflation - Voting against the action were Richard W. Fisher, who believed that, while the Committee should be patient in beginning to normalize monetary policy, improvement in the U.S. economic performance since October has moved forward, further than the majority of the Committee envisions, the date when it will likely be appropriate to increase(inflation) the federal funds rate; Narayana Kocherlakota, who believed that the Committee 's decision, in the context of ongoing low(deflation) inflation and falling market-based measures of longer-term inflation expectations, created undue downside(deflation) risk to the credibility of the 2 percent inflation target; and Charles I. Plosser, who believed that the statement should not stress the importance of the passage of time as a key element of its forward guidance and, given the improvement in economic conditions, should not emphasize the consistency of the current forward guidance with previous statements.
+----------- deflation more overall
+
+2015_01
+Deflation - Inflation has declined(deflation) further below(deflation) the Committee 's longer-run objective, largely reflecting declines(deflation) in energy prices.
+Deflation - Market-based measures of inflation compensation have declined(deflation) substantially in recent months; survey-based measures of longer-term inflation expectations have remained stable(deflation).
+Deflation - Inflation is anticipated to decline(deflation) further in the near term, but the Committee expects inflation to rise(inflation) gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of lower(deflation) energy prices and other factors dissipate.
+None      - The Committee continues to monitor inflation developments closely.
+Deflation - In determining how long to maintain(deflation) this target range, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Inflation - However, if incoming information indicates faster progress toward the Committee 's employment and inflation objectives than the Committee now expects, then increases(inflation) in the target range for the federal funds rate are likely to occur sooner than currently anticipated.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2015_03
+Deflation - Inflation has declined(deflation) further below(deflation) the Committee 's longer-run objective, largely reflecting declines(deflation) in energy prices.
+Deflation - Market-based measures of inflation compensation remain low(deflation); survey-based measures of longer-term inflation expectations have remained stable(deflation).
+Deflation - Inflation is anticipated to remain near its recent low(deflation) level in the near term, but the Committee expects inflation to rise(inflation) gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of energy price declines(deflation) and other factors dissipate.
+None      - The Committee continues to monitor inflation developments closely.
+Deflation - In determining how long to maintain(deflation) this target range, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+None      - The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2015_04
+Deflation - Inflation continued to run below(deflation) the Committee 's longer-run objective, partly reflecting earlier declines(deflation) in energy prices and decreasing prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation remain low(deflation); survey-based measures of longer-term inflation expectations have remained stable(deflation).
+Deflation - Inflation is anticipated to remain near its recent low(deflation) level in the near term, but the Committee expects inflation to rise(inflation) gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of declines(deflation) in energy and import prices dissipate.
+None      - The Committee continues to monitor inflation developments closely.
+Deflation - In determining how long to maintain(deflation) this target range, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+None      - The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2015_06
+Deflation - Inflation continued to run below(deflation) the Commitee&#39;s longer-run objective, partly reflecting earlier declines(deflation) in energy prices and decreasing prices of non-energy imports; energy prices appear to have stabilized.
+Deflation - Market-based measures of inflation compensation remain low(deflation); survey-based measures of longer-term inflation expectations have remained stable(deflation).
+Deflation - Inflation is anticipated to remain near its recent low(deflation) level in the near term, but the Committee expects inflation to rise(inflation) gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of earlier declines(deflation) in energy and import prices dissipate.
+None      - The Committee continues to monitor inflation developments closely.
+Deflation - In determining how long to maintain(deflation) this target range, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+None      - The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2015_07
+Deflation - Inflation continued to run below(deflation) the Committee 's longer-run objective, partly reflecting earlier declines(deflation) in energy prices and decreasing prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation remain low(deflation); survey&#x2011;based measures of longer-term inflation expectations have remained stable(deflation).
+Deflation - Inflation is anticipated to remain near its recent low(deflation) level in the near term, but the Committee expects inflation to rise(inflation) gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of earlier declines(deflation) in energy and import prices dissipate.
+None      - The Committee continues to monitor inflation developments closely.
+Deflation - In determining how long to maintain(deflation) this target range, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+None      - The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen some further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2015_09
+Deflation - Inflation has continued to run below(deflation) the Committee 's longer-run objective, partly reflecting declines(deflation) in energy prices and in prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation moved lower(deflation); survey-based measures of longer-term inflation expectations have remained stable(deflation).
+Deflation - Recent global economic and financial developments may restrain(deflation) economic activity somewhat and are likely to put further downward pressure on inflation in the near term.
+Deflation - Inflation is anticipated to remain near its recent low(deflation) level in the near term but the Committee expects inflation to rise(inflation) gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of declines(deflation) in energy and import prices dissipate.
+None      - The Committee continues to monitor inflation developments closely.
+Deflation - In determining how long to maintain(deflation) this target range, the Committee will assess progress-- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+None      - The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen some further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2015_10
+Deflation - Inflation has continued to run below(deflation) the Committee 's longer-run objective, partly reflecting declines(deflation) in energy prices and in prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation moved slightly lower(deflation); survey-based measures of longer-term inflation expectations have remained stable(deflation).
+Deflation - Inflation is anticipated to remain near its recent low(deflation) level in the near term but the Committee expects inflation to rise(inflation) gradually toward 2 percent over the medium term as the labor market improves further and the transitory effects of declines(deflation) in energy and import prices dissipate.
+None      - The Committee continues to monitor inflation developments closely.
+None      - In determining whether it will be appropriate to raise the target range at its next meeting, the Committee will assess progress -- both realized and expected -- toward its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+None      - The Committee anticipates that it will be appropriate to raise the target range for the federal funds rate when it has seen some further improvement in the labor market and is reasonably confident that inflation will move back to its 2 percent objective over the medium term.
+None      - When the Committee decides to begin to remove policy accommodation, it will take a balanced approach consistent with its longer-run goals of maximum employment and inflation of 2 percent.
+Deflation - The Committee currently anticipates that, even after employment and inflation are near mandate-consistent levels, economic conditions may, for some time, warrant keeping the target federal funds rate below(deflation) levels the Committee views as normal in the longer run.
+----------- deflation more overall
+
+2015_12
+Deflation - Inflation has continued to run below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting declines(deflation) in energy prices and in prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation remain low(deflation); some survey-based measures of longer-term inflation expectations have edged down.
+None      - Inflation is expected to rise(inflation) to 2 percent over the medium term as the transitory effects of declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee continues to monitor inflation developments closely.
+Inflation - The Committee judges that there has been considerable improvement in labor market conditions this year, and it is reasonably confident that inflation will rise(inflation), over the medium term, to its 2 percent objective.
+Inflation - The stance of monetary policy remains accommodative after this increase(inflation), thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2016_01
+Deflation - Inflation has continued to run below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting declines(deflation) in energy prices and in prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation declined(deflation) further; survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+Deflation - Inflation is expected to remain low(deflation) in the near term, in part because of the further declines(deflation) in energy prices, but to rise(inflation) to 2 percent over the medium term as the transitory effects of declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee is closely monitoring global economic and financial developments and is assessing their implications for the labor market and inflation, and for the balance of risks to the outlook.
+None      - The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2016_03
+Deflation - Inflation picked up(inflation) in recent months; however, it continued to run below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting declines(deflation) in energy prices and in prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation remain low(deflation); survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+Deflation - Inflation is expected to remain low(deflation) in the near term, in part because of earlier declines(deflation) in energy prices, but to rise(inflation) to 2 percent over the medium term as the transitory effects of declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee continues to monitor inflation developments closely.
+None      - The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2016_04
+Deflation - Inflation has continued to run below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting earlier declines(deflation) in energy prices and falling prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation remain low(deflation); survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+Deflation - Inflation is expected to remain low(deflation) in the near term, in part because of earlier declines(deflation) in energy prices, but to rise(inflation) to 2 percent over the medium term as the transitory effects of declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+None      - The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2016_06
+Deflation - Inflation has continued to run below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting earlier declines(deflation) in energy prices and in prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation declined(deflation); most survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+Deflation - Inflation is expected to remain low(deflation) in the near term, in part because of earlier declines(deflation) in energy prices, but to rise(inflation) to 2 percent over the medium term as the transitory effects of past declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+None      - The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2016_07
+Deflation - Inflation has continued to run below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting earlier declines(deflation) in energy prices and in prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation remain low(deflation); most survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+Deflation - Inflation is expected to remain low(deflation) in the near term, in part because of earlier declines(deflation) in energy prices, but to rise(inflation) to 2 percent over the medium term as the transitory effects of past declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+None      - The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2016_09
+Deflation - Inflation has continued to run below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting earlier declines(deflation) in energy prices and in prices of non-energy imports.
+Deflation - Market-based measures of inflation compensation remain low(deflation); most survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+Deflation - Inflation is expected to remain low(deflation) in the near term, in part because of earlier declines(deflation) in energy prices, but to rise(inflation) to 2 percent over the medium term as the transitory effects of past declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+None      - The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2016_11
+Deflation - Inflation has increased(inflation) somewhat since earlier this year but is still below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting earlier declines(deflation) in energy prices and in prices of non-energy imports.
+None      - Market-based measures of inflation compensation have moved up(inflation) but remain low(deflation); most survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+None      - Inflation is expected to rise(inflation) to 2 percent over the medium term as the transitory effects of past declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+None      - The stance of monetary policy remains accommodative, thereby supporting further improvement in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2016_12
+Deflation - Inflation has increased(inflation) since earlier this year but is still below(deflation) the Committee 's 2 percent longer-run objective, partly reflecting earlier declines(deflation) in energy prices and in prices of non-energy imports.
+None      - Market-based measures of inflation compensation have moved up(inflation) considerably but still are low(deflation); most survey-based measures of longer-term inflation expectations are little changed, on balance, in recent months.
+None      - Inflation is expected to rise(inflation) to 2 percent over the medium term as the transitory effects of past declines(deflation) in energy and import prices dissipate and the labor market strengthens further.
+None      - The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+None      - In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 1/2 to 3/4 percent.
+None      - The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2017_02
+None      - Inflation increased(inflation) in recent quarters but is still below(deflation) the Committee 's 2 percent longer-run objective.
+Deflation - Market-based measures of inflation compensation remain low(deflation); most survey-based measures of longer-term inflation expectations are little changed, on balance.
+Inflation - The Committee expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand(inflation) at a moderate(deflation) pace, labor market conditions will strengthen somewhat further, and inflation will rise(inflation) to 2 percent over the medium term.
+None      - The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+Deflation - In view of realized and expected labor market conditions and inflation, the Committee decided to maintain(deflation) the target range for the federal funds rate at 1/2 to 3/4 percent.
+None      - The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+Deflation - In light of the current shortfall(deflation) of inflation from 2 percent, the Committee will carefully monitor actual and expected progress toward its inflation goal.
+----------- deflation more overall
+
+2017_03
+None      - Inflation has increased(inflation) in recent quarters, moving close to the Committee 's 2 percent longer-run objective; excluding energy and food prices, inflation was little changed and continued to run somewhat below(deflation) 2 percent.
+Deflation - Market-based measures of inflation compensation remain low(deflation); survey-based measures of longer-term inflation expectations are little changed, on balance.
+None      - The Committee expects that, with gradual adjustments in the stance of monetary policy, economic activity will expand(inflation) at a moderate(deflation) pace, labor market conditions will strengthen somewhat further, and inflation will stabilize around 2 percent over the medium term.
+None      - The Committee continues to closely monitor inflation indicators and global economic and financial developments.
+None      - In view of realized and expected labor market conditions and inflation, the Committee decided to raise the target range for the federal funds rate to 3/4 to 1 percent.
+Inflation - The stance of monetary policy remains accommodative, thereby supporting some further strengthening in labor market conditions and a sustained(inflation) return to 2 percent inflation.
+None      - In determining the timing and size of future adjustments to the target range for the federal funds rate, the Committee will assess realized and expected economic conditions relative to its objectives of maximum employment and 2 percent inflation.
+None      - This assessment will take into account a wide range of information, including measures of labor market conditions, indicators of inflation pressures and inflation expectations, and readings on financial and international developments.
+None      - The Committee will carefully monitor actual and expected inflation developments relative to its symmetric inflation goal.
+----------- remained stable
+

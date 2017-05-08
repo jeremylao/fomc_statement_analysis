@@ -1,0 +1,97 @@
+
+
+
+unemployment	MANDATE
+rate	T
+
+
+
+inflation	MANDATE
+
+
+continue	D
+
+
+inflation	MANDATE
+2	N
+percent	U
+inflation	MANDATE
+inflation	MANDATE
+
+
+decided	A
+
+holdings	T
+agency	T
+mortgage-backed	T
+securities	T
+15	N
+billion	U
+20	N
+billion	U
+holdings	T
+20	N
+billion	U
+25	N
+billion	U
+
+holdings	T
+agency	T
+debt	T
+agency	T
+mortgage-backed	T
+securities	T
+agency	T
+mortgage-backed	T
+securities	T
+
+still-increasing	D
+maintain	D
+inflation	MANDATE
+
+continue	D
+agency	T
+mortgage-backed	T
+securities	T
+
+inflation	MANDATE
+
+inflation	MANDATE
+
+monetary	T
+policy	T
+
+maintain	D
+0	N
+1/4	N
+percent	U
+federal	T
+funds	T
+rate	T
+2	N
+percent	U
+inflation	MANDATE
+
+inflation	MANDATE
+inflation	MANDATE
+
+maintain	D
+federal	T
+funds	T
+rate	T
+inflation	MANDATE
+2	N
+percent	U
+inflation	MANDATE
+
+inflation	MANDATE
+2	N
+percent	U
+
+inflation	MANDATE
+federal	T
+funds	T
+rate	T
+
+Voting	A
+

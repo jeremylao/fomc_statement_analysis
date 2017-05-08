@@ -1,0 +1,83 @@
+
+
+unemployment	MANDATE
+rate	T
+
+
+increased	D
+2	N
+percent	U
+
+inflation	MANDATE
+low	D
+inflation	MANDATE
+
+
+monetary	T
+policy	T
+
+2	N
+percent	U
+
+
+inflation	MANDATE
+
+inflation	MANDATE
+decided	A
+federal	T
+funds	T
+rate	T
+1/2	N
+3/4	N
+percent	U
+
+monetary	T
+policy	T
+2	N
+percent	U
+inflation	MANDATE
+
+federal	T
+funds	T
+rate	T
+2	N
+percent	U
+inflation	MANDATE
+
+inflation	MANDATE
+inflation	MANDATE
+
+inflation	MANDATE
+2	N
+percent	U
+inflation	MANDATE
+
+increases	D
+federal	T
+funds	T
+rate	T
+federal	T
+funds	T
+rate	T
+
+federal	T
+funds	T
+rate	T
+
+holdings	T
+agency	T
+debt	T
+agency	T
+mortgage-backed	T
+securities	T
+agency	T
+mortgage-backed	T
+securities	T
+federal	T
+funds	T
+rate	T
+
+maintain	D
+
+Voting	A
+
